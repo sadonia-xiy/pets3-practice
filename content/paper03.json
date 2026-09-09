@@ -1,0 +1,876 @@
+{
+  "id": 3,
+  "title": "社区与公共服务",
+  "sections": [
+    {
+      "title": "听力 A · 1—4",
+      "kind": "listenA",
+      "audio": "./audio/03-1.mp3",
+      "transcript": "W: Good morning, Clay Corner. How can I help?\nM: I booked Saturday's pottery class for my daughter, Nina, but she has hurt her wrist and cannot come.\nW: I'm sorry to hear that. We can move her booking to another date. The next beginners' class is on the eighteenth.\nM: That is during her school trip. Could I take her place this Saturday? I have never used a pottery wheel.\nW: The class is designed for complete beginners, so that is fine. Nina paid the student price of eighteen pounds. The adult fee is twenty-four, so you would need to pay the difference.\nM: No problem. Does the fee include painting the pot?\nW: You will shape and decorate it during the class. We fire it afterwards, and you collect it about ten days later. Please do not wear anything too loose around the wheel. We provide aprons, but clay can still reach your sleeves.\nM: Understood. I had planned to bring an old shirt anyway.\nW: Excellent. I'll change the name on the booking and email the safety notes. Nina can use her payment for a later class if she contacts us before the end of the month.",
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Why can Nina not attend the class?",
+          "options": [
+            "She is away on a school trip.",
+            "She has injured her wrist.",
+            "She has lost her booking email.",
+            "She is too young for the class."
+          ],
+          "answer": "B",
+          "explanation": "Nina因手腕受伤不能参加；学校旅行影响的是之后的日期。"
+        },
+        {
+          "n": 2,
+          "prompt": "What does the man want to do?",
+          "options": [
+            "Take Nina’s place this Saturday.",
+            "Collect Nina’s finished pot.",
+            "Book a private lesson for Nina.",
+            "Cancel the payment completely."
+          ],
+          "answer": "A",
+          "explanation": "男子问自己能否代替女儿参加本周六课程。"
+        },
+        {
+          "n": 3,
+          "prompt": "What additional payment is required?",
+          "options": [
+            "Six pounds.",
+            "Ten pounds.",
+            "Eighteen pounds.",
+            "Twenty-four pounds."
+          ],
+          "answer": "A",
+          "explanation": "成人24镑，学生已付18镑，需要补6镑。"
+        },
+        {
+          "n": 4,
+          "prompt": "What advice does the woman give about clothing?",
+          "options": [
+            "Bring a waterproof coat.",
+            "Wear a school uniform.",
+            "Avoid loose clothes.",
+            "Buy an apron in advance."
+          ],
+          "answer": "C",
+          "explanation": "安全提醒是陶轮旁不要穿过于宽松的衣服；围裙由教室提供。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 5—8",
+      "kind": "listenA",
+      "audio": "./audio/03-2.mp3",
+      "transcript": "M: Our guest today is Dr Leah Morgan, who runs public nights at West Hill Observatory. Leah, did you become interested in astronomy through school?\nW: Surprisingly, no. My science lessons focused on calculations, which I found difficult. My interest began when an aunt gave me a map of the night sky. I liked learning how people had named patterns of stars.\nM: Many beginners think they need an expensive telescope.\nW: They really don't. Start with your eyes and learn to recognise a few bright objects. Binoculars are useful later because they are light and easy to point. A telescope can be frustrating if you do not yet know where to look.\nM: What happens at your public nights?\nW: We begin indoors with a twenty-minute introduction. Then small groups go outside with a volunteer. Cloud is our biggest challenge, so we always prepare a talk or practical activity in case the sky is hidden.\nM: Has a cloudy evening ever gone especially well?\nW: Yes. Last February nobody saw a single star, but a visitor asked how astronauts sleep. That question started such a lively discussion that people stayed beyond closing time.\nM: What would you like visitors to remember?\nW: Curiosity matters more than arriving with scientific knowledge. Questions give us somewhere to begin.",
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "What first attracted Leah to astronomy?",
+          "options": [
+            "Solving calculations at school.",
+            "Receiving a star map.",
+            "Buying a powerful telescope.",
+            "Meeting an astronaut."
+          ],
+          "answer": "B",
+          "explanation": "她的兴趣始于姨妈送的一张星图。"
+        },
+        {
+          "n": 6,
+          "prompt": "Why does Leah recommend binoculars before a telescope?",
+          "options": [
+            "They produce brighter stars.",
+            "They work through clouds.",
+            "They are easier for beginners to handle.",
+            "They are provided free by schools."
+          ],
+          "answer": "C",
+          "explanation": "双筒望远镜轻且容易对准，初学者更易操作。"
+        },
+        {
+          "n": 7,
+          "prompt": "How does the observatory prepare for poor weather?",
+          "options": [
+            "It cancels every cloudy session.",
+            "It offers an indoor alternative.",
+            "It moves visitors to another town.",
+            "It extends the opening hours."
+          ],
+          "answer": "B",
+          "explanation": "若云层遮天，会准备讲座或实践活动。"
+        },
+        {
+          "n": 8,
+          "prompt": "What does Leah consider most important for visitors?",
+          "options": [
+            "Detailed scientific knowledge.",
+            "Previous outdoor experience.",
+            "Owning suitable equipment.",
+            "A willingness to ask questions."
+          ],
+          "answer": "D",
+          "explanation": "结尾强调curiosity和questions比已有知识更重要。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 9—12",
+      "kind": "listenA",
+      "audio": "./audio/03-3.mp3",
+      "transcript": "When I became wardrobe manager at the Royal Street Theatre, I imagined most of my time would be spent choosing beautiful clothes. In fact, my first responsibility is making sure performers can move safely. A coat may look perfect under the lights but become dangerous if it catches on a staircase or hides an actor's shoes.\n\nBefore rehearsals begin, I read the script and meet the designer. We discuss the period of the story, but we also mark every quick change of costume. One actor in our current production has only forty seconds to replace a formal suit with working clothes. We added hidden fastenings after an ordinary row of buttons proved too slow.\n\nThe wardrobe team attends rehearsals from an early stage. Last month we noticed that a long skirt made almost no sound in the fitting room but was surprisingly noisy when an actor ran across the wooden stage. Shortening it by two centimetres solved the problem.\n\nSome costumes are stored after a production; others are altered for another show. We photograph each piece and record every repair. That careful record saves time, but it also preserves the work of people whose names the audience may never know. A successful costume should support the story so well that viewers forget to wonder how it was made.",
+      "questions": [
+        {
+          "n": 9,
+          "prompt": "What is the speaker’s main responsibility?",
+          "options": [
+            "Buying fashionable clothes.",
+            "Protecting valuable photographs.",
+            "Ensuring costumes can be used safely.",
+            "Teaching actors how to design."
+          ],
+          "answer": "C",
+          "explanation": "首段明确首要责任是保证演员穿着服装安全活动。"
+        },
+        {
+          "n": 10,
+          "prompt": "Why were hidden fastenings added to one costume?",
+          "options": [
+            "The original colour looked wrong.",
+            "The actor had very little changing time.",
+            "The buttons made too much noise.",
+            "The suit was needed in another play."
+          ],
+          "answer": "B",
+          "explanation": "演员只有40秒换装，普通纽扣太慢。"
+        },
+        {
+          "n": 11,
+          "prompt": "What problem was discovered during a rehearsal?",
+          "options": [
+            "A skirt was noisy on the stage.",
+            "A coat hid an actor’s face.",
+            "A staircase was too narrow.",
+            "A photograph had been lost."
+          ],
+          "answer": "A",
+          "explanation": "长裙在木舞台奔跑时发出意外噪声。"
+        },
+        {
+          "n": 12,
+          "prompt": "Why does the team keep detailed records?",
+          "options": [
+            "To advertise clothes for sale.",
+            "To compare actors’ performances.",
+            "To shorten every costume.",
+            "To support future use and preserve the makers’ work."
+          ],
+          "answer": "D",
+          "explanation": "记录既便于日后使用，也保存幕后制作者的工作。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 13—16",
+      "kind": "listenA",
+      "audio": "./audio/03-4.mp3",
+      "transcript": "M: We've received several complaints about the new community garden gate. It locks automatically at six, but people watering after work are sometimes still inside.\nW: The automatic lock was installed because the old gate was repeatedly left open overnight. Could we simply change the closing time to eight?\nM: That would help in summer, but in winter nobody should be there after dark. A fixed time creates another problem.\nW: What about giving every member a key?\nM: We tried that at the allotments. Keys were copied, and we no longer knew who had access. I would prefer a keypad, though replacing the gate again would be expensive.\nW: We may not need to replace it. The lock company says a release button can be fitted inside. People could always leave, while entry would still stop at the announced time.\nM: That sounds safer. We should also put a warning light near the tool shed. It could flash fifteen minutes before the gate locks.\nW: Good idea. Let's test both changes for a month. I'll ask the gardening group to record any difficulties rather than waiting until the next committee meeting.\nM: And I'll update the sign today. At present it only gives the opening hours; it does not explain that the lock is automatic.",
+      "questions": [
+        {
+          "n": 13,
+          "prompt": "What problem are the speakers trying to solve?",
+          "options": [
+            "Tools are being stolen in daylight.",
+            "Members can be locked inside the garden.",
+            "The garden closes too late in winter.",
+            "Too many people copy the opening hours."
+          ],
+          "answer": "B",
+          "explanation": "自动锁在六点关闭，晚间浇水者可能被锁在里面。"
+        },
+        {
+          "n": 14,
+          "prompt": "Why does the man reject giving everyone a key?",
+          "options": [
+            "Keys are too expensive to make.",
+            "Members often lose them in the garden.",
+            "Past experience showed access became uncontrolled.",
+            "The lock company refuses to provide them."
+          ],
+          "answer": "C",
+          "explanation": "此前钥匙被复制，管理方无法确认谁能进入。"
+        },
+        {
+          "n": 15,
+          "prompt": "What solution does the lock company suggest?",
+          "options": [
+            "A release button on the inside.",
+            "A second entrance near the shed.",
+            "A guard at the gate every evening.",
+            "A lock controlled by daylight."
+          ],
+          "answer": "A",
+          "explanation": "公司建议在门内安装放行按钮，确保能出去。"
+        },
+        {
+          "n": 16,
+          "prompt": "What will the gardening group do during the trial?",
+          "options": [
+            "Collect new membership fees.",
+            "Repair the tool shed.",
+            "Choose the winter closing time.",
+            "Keep a record of problems."
+          ],
+          "answer": "D",
+          "explanation": "女子请园艺小组记录试行期间遇到的困难。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 17—20",
+      "kind": "listenA",
+      "audio": "./audio/03-5.mp3",
+      "transcript": "Last autumn I agreed to help collect memories of the harbour for a local history project. I expected to sit indoors and type other people's recordings. Instead, the organiser handed me a small recorder and asked me to interview former ferry workers. I was nervous, so I prepared a long list of exact questions.\n\nMy first interview was with Mr Evans, who had sold tickets for thirty years. I rushed through my list and received short, correct answers. As I packed away the recorder, he mentioned the smell of oranges arriving on winter boats. That single detail was more vivid than anything I had asked about. I turned the recorder on again and invited him to explain.\n\nAfterwards, the organiser taught me to use fewer questions and leave a little silence. People often add an important memory when they are not immediately interrupted. I still check dates and names, since memory can be uncertain, but I no longer treat an interview like a form.\n\nThe recordings will be available in the town archive next spring. Short sections may also appear in an exhibition, but only after each speaker approves the edited version. I began the project hoping to learn about ships. I have learned just as much about listening: accuracy matters, yet unexpected details often make history feel human.",
+      "questions": [
+        {
+          "n": 17,
+          "prompt": "What task did the speaker originally expect to do?",
+          "options": [
+            "Type existing recordings.",
+            "Interview ferry passengers.",
+            "Sell tickets at the harbour.",
+            "Design a history exhibition."
+          ],
+          "answer": "A",
+          "explanation": "起初以为只需在室内整理并打字录音。"
+        },
+        {
+          "n": 18,
+          "prompt": "What improved the first interview?",
+          "options": [
+            "A question about ticket prices.",
+            "A story prompted by an unexpected detail.",
+            "A written form from the archive.",
+            "The arrival of another interviewer."
+          ],
+          "answer": "B",
+          "explanation": "橙子气味这一意外细节引出了生动叙述。"
+        },
+        {
+          "n": 19,
+          "prompt": "What interviewing technique did the speaker learn?",
+          "options": [
+            "Ask every question twice.",
+            "Avoid checking names and dates.",
+            "Allow silence before moving on.",
+            "Edit recordings during the interview."
+          ],
+          "answer": "C",
+          "explanation": "组织者教其少问问题，并留出沉默让受访者继续回忆。"
+        },
+        {
+          "n": 20,
+          "prompt": "What must happen before extracts enter the exhibition?",
+          "options": [
+            "The archive must close.",
+            "The ferry workers must be paid.",
+            "All ships must be identified.",
+            "Speakers must approve the edited material."
+          ],
+          "answer": "D",
+          "explanation": "展出片段前须经每位讲述者确认编辑版本。"
+        }
+      ]
+    },
+    {
+      "title": "听力 B · 21—25",
+      "kind": "listenB",
+      "audio": "./audio/03-6.mp3",
+      "transcript": "Welcome to the Elmwood Repair Week, which will run from 14 to 18 October. At first, many residents threw away lamps and radios after small faults. The organisers did not immediately spend money on new equipment. Instead, they asked two repair specialists to examine a sample of unwanted items. This showed that loose wires and worn switches caused most failures.\n\nThe group then opened a booking desk in the town library. Some people expected this to be unpopular, yet all forty appointment times were taken within three days. One difficulty remained: replacement parts sometimes arrived late. To deal with it, the team created a labelled storage shelf and contacted owners by text.\n\nThe project is still small, and nobody claims that it offers a complete answer. Its main lesson is that repair services need reliable organisation as well as technical skill. Careful observation mattered more than the original assumptions. The organisers now collect comments every three months and publish a short report, so residents can see why later decisions are made. They also invite new volunteers to attend an introductory meeting before taking responsibility. This helps everyone understand both the purpose of the project and its practical limits.",
+      "text": "Elmwood Repair Week\n\n21. Month: ____\n22. Main booking place: ____\n23. Number of appointments: ____\n24. Owners contacted by: ____\n25. Items stored on a labelled: ____",
+      "questions": [
+        {
+          "n": 21,
+          "prompt": "Month",
+          "answer": "October",
+          "explanation": "活动日期为10月14日至18日。"
+        },
+        {
+          "n": 22,
+          "prompt": "Booking place",
+          "answer": "library|town library",
+          "explanation": "预约台设在镇图书馆。"
+        },
+        {
+          "n": 23,
+          "prompt": "Number of appointments",
+          "answer": "40|forty",
+          "explanation": "四十个预约名额三天内约满。"
+        },
+        {
+          "n": 24,
+          "prompt": "Contact method",
+          "answer": "text|text message",
+          "explanation": "零件到达后用短信联系物主。"
+        },
+        {
+          "n": 25,
+          "prompt": "Storage item",
+          "answer": "shelf",
+          "explanation": "零件迟到时，物品放在带标签的架子上。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 A · 26—30",
+      "kind": "readA",
+      "text": "A coastal town introduced reusable cups at its annual food festival after volunteers collected thousands of disposable ones in a single weekend.\n\nInitially, organisers believed visitors would object to paying a small deposit. However, most people returned the cups once collection points were made easy to see. This mattered because convenience influenced behaviour more strongly than the deposit itself.\n\nInstead of making an immediate large change, the organisers tested three return points in one section of the festival. During the trial, they recorded what people actually did and asked them to explain their choices. They learned that the busiest food area needed two return stations, while a quiet entrance needed none.\n\nThe revised approach placed stations according to visitor movement and added large signs. It did not satisfy every person, and the organisers were careful not to describe it as a universal solution. Cups still had to be washed, transported and occasionally replaced. Nevertheless, waste fell sharply and queues remained short.\n\nCup returns were especially high near the music stage, where people tended to remain for a long time. At the entrance, by contrast, many visitors carried drinks out of the site without noticing the return point. Volunteers began mentioning the deposit as drinks were sold and printed a simple map on the programme.\n\nThe washing team also influenced the final plan. Its members asked for crates that could be stacked safely and for separate containers for damaged cups. These requests were less visible than the public signs, but without them the system would have slowed behind the scenes.\n\nThe council will repeat the scheme next year. It will not judge success only by the number of cups returned. Waiting time, washing capacity and the amount of replacement stock will also be measured. The experience shows that an environmental promise becomes credible when every stage, from receiving a drink to returning the container, is easy to understand.",
+      "questions": [
+        {
+          "n": 26,
+          "prompt": "What problem led to the reusable-cup scheme?",
+          "options": [
+            "A shortage of food sellers",
+            "Large amounts of disposable waste",
+            "Complaints about ticket prices",
+            "A lack of festival volunteers"
+          ],
+          "answer": "B",
+          "explanation": "活动后产生大量一次性杯垃圾。"
+        },
+        {
+          "n": 27,
+          "prompt": "What most encouraged visitors to return cups?",
+          "options": [
+            "Visible, convenient collection points",
+            "A much larger deposit",
+            "Free festival tickets",
+            "A ban on all drinks"
+          ],
+          "answer": "A",
+          "explanation": "回收点容易看见和使用是主要因素。"
+        },
+        {
+          "n": 28,
+          "prompt": "What did the trial reveal?",
+          "options": [
+            "Every entrance needed two stations",
+            "Visitors preferred glass cups",
+            "Station locations should reflect crowd movement",
+            "Washing cups was unnecessary"
+          ],
+          "answer": "C",
+          "explanation": "不同区域人流不同，应按实际移动设置回收点。"
+        },
+        {
+          "n": 29,
+          "prompt": "What limitation remained?",
+          "options": [
+            "The cups required cleaning and transport",
+            "No visitor understood the signs",
+            "Food stalls refused the system",
+            "The festival became much shorter"
+          ],
+          "answer": "A",
+          "explanation": "文中明确说明清洗、运输和替换仍需处理。"
+        },
+        {
+          "n": 30,
+          "prompt": "What is the main lesson?",
+          "options": [
+            "Deposits always annoy visitors",
+            "Environmental plans need practical design",
+            "Festivals should sell fewer drinks",
+            "Volunteers cannot change public behaviour"
+          ],
+          "answer": "B",
+          "explanation": "核心是环保目标要结合真实使用流程。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 A · 31—35",
+      "kind": "readA",
+      "text": "A secondary school replaced a traditional parents’ evening with a choice of short online or face-to-face meetings.\n\nInitially, staff expected nearly every family to choose the online option. However, families selected different formats for reasons connected with work, travel and privacy. This mattered because access depended on more than owning a phone or computer.\n\nInstead of making an immediate large change, the organisers offered both formats to two year groups for one term. During the trial, they recorded what people actually did and asked them to explain their choices. They learned that online meetings helped commuters, while some parents discussed sensitive matters more comfortably at school.\n\nThe revised approach kept both choices and published clear booking instructions. It did not satisfy every person, and the organisers were careful not to describe it as a universal solution. Teachers still had limited time and some conversations required follow-up appointments. Nevertheless, attendance increased among families who had previously missed the event.\n\nThe school also asked teachers how the two formats affected conversation. Online appointments usually began promptly, but a weak connection sometimes consumed much of a ten-minute slot. Meetings at school took longer to organise, although teachers could show exercise books and diagrams more naturally. Neither format was best for every subject.\n\nOne concern was that families choosing online meetings might receive a less personal service. Recordings were rejected because they could make honest discussion difficult. Instead, teachers used the same preparation notes for both formats and offered a later phone call when a technical problem interrupted an appointment.\n\nThe next parents’ evening will keep the choice. Families will receive booking guidance in several languages, and the school office will help anyone unable to use the online form. Attendance figures matter, but the aim is a useful exchange about each pupil. Flexibility succeeds only when both routes lead to a conversation of comparable quality. Further review was planned.",
+      "questions": [
+        {
+          "n": 31,
+          "prompt": "What did staff initially predict?",
+          "options": [
+            "Most families would meet online",
+            "Parents would reject all meetings",
+            "Teachers would travel to homes",
+            "Only pupils would attend"
+          ],
+          "answer": "A",
+          "explanation": "校方最初预计几乎所有家庭选择线上。"
+        },
+        {
+          "n": 32,
+          "prompt": "Why did families choose different formats?",
+          "options": [
+            "They studied different subjects",
+            "Their practical needs varied",
+            "Online meetings were graded",
+            "The school chose for them"
+          ],
+          "answer": "B",
+          "explanation": "工作、交通、隐私等实际情况不同。"
+        },
+        {
+          "n": 33,
+          "prompt": "What did the trial show about face-to-face meetings?",
+          "options": [
+            "They were always quicker",
+            "They needed no booking",
+            "They could suit private discussions",
+            "They were preferred only by teachers"
+          ],
+          "answer": "C",
+          "explanation": "部分家长在校内更自在地谈敏感问题。"
+        },
+        {
+          "n": 34,
+          "prompt": "What was one result of the new system?",
+          "options": [
+            "All meetings became longer",
+            "Teacher workload disappeared",
+            "Parents stopped asking questions",
+            "Attendance rose among previous non-attenders"
+          ],
+          "answer": "D",
+          "explanation": "过去缺席的一些家庭开始参加。"
+        },
+        {
+          "n": 35,
+          "prompt": "What does the writer emphasise?",
+          "options": [
+            "One format should replace the other",
+            "Choice should reflect varied circumstances",
+            "Technology makes privacy irrelevant",
+            "Parents need fewer school contacts"
+          ],
+          "answer": "B",
+          "explanation": "结论强调基于差异提供选择。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 A · 36—40",
+      "kind": "readA",
+      "text": "A museum invited local teenagers to rewrite labels for a gallery about twentieth-century household life.\n\nInitially, curators feared that shorter labels would remove important historical detail. However, visitors remembered more when each label began with a clear question. This mattered because the question gave them a reason to examine the object before reading the explanation.\n\nInstead of making an immediate large change, the organisers displayed two versions of six labels on alternate weeks. During the trial, they recorded what people actually did and asked them to explain their choices. They learned that plain language increased attention without reducing interest in deeper information.\n\nThe revised approach used a short main label with an optional digital link to fuller research. It did not satisfy every person, and the organisers were careful not to describe it as a universal solution. Digital material could not replace staff or accessible printed information. Nevertheless, both younger and older visitors spent longer discussing the objects.\n\nTeenagers also noticed that several labels assumed knowledge of objects no longer common in homes. A description of a mangle explained its date and material but never said why wet clothes were passed through it. Adding one direct sentence helped visitors understand the object before considering its historical importance.\n\nCurators retained responsibility for checking facts. The young writers were not asked to pretend to be experts; their role was to identify where a new visitor might lose the thread. This distinction made the collaboration productive and protected the accuracy of the gallery.\n\nThe museum now tests labels by asking volunteers to describe what they learned, rather than asking only whether they liked the wording. Some technical terms remain because they are precise, but they are explained beside the object. Clear language did not lower the intellectual level of the exhibition. It gave more visitors enough confidence to examine the evidence and ask further questions. Further review was planned.",
+      "questions": [
+        {
+          "n": 36,
+          "prompt": "Who helped rewrite the gallery labels?",
+          "options": [
+            "Local teenagers",
+            "Household-product companies",
+            "Foreign historians",
+            "Primary-school teachers"
+          ],
+          "answer": "A",
+          "explanation": "开头说明由当地青少年参与改写。"
+        },
+        {
+          "n": 37,
+          "prompt": "Why did questions improve the labels?",
+          "options": [
+            "They made objects cheaper",
+            "They encouraged visitors to look first",
+            "They removed all historical detail",
+            "They tested visitors for marks"
+          ],
+          "answer": "B",
+          "explanation": "问题让观众先观察展品再读解释。"
+        },
+        {
+          "n": 38,
+          "prompt": "What did the label trial demonstrate?",
+          "options": [
+            "Plain language could maintain serious interest",
+            "Visitors disliked all digital links",
+            "Longer labels were always clearer",
+            "Only young visitors read labels"
+          ],
+          "answer": "A",
+          "explanation": "简明语言提高关注且未削弱深入兴趣。"
+        },
+        {
+          "n": 39,
+          "prompt": "How was extra information provided?",
+          "options": [
+            "In a compulsory lecture",
+            "On the ticket",
+            "Through an optional digital link",
+            "Only in a staff office"
+          ],
+          "answer": "C",
+          "explanation": "主标签简短，数字链接提供完整研究。"
+        },
+        {
+          "n": 40,
+          "prompt": "What is the passage mainly about?",
+          "options": [
+            "Selling household objects",
+            "Reducing museum opening hours",
+            "Training teenagers as historians",
+            "Making specialist knowledge approachable"
+          ],
+          "answer": "D",
+          "explanation": "核心是给公众友好的入口来理解专业知识。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 B · 41—45",
+      "kind": "readB",
+      "text": "Five residents discuss whether unused land beside a railway should become a community orchard.\n\nAda: I support the orchard, but success will depend on regular care. Planting day attracts photographs and volunteers; watering young trees in a dry August is less exciting. A rota and a small maintenance budget should be agreed before anything goes into the ground.\n\nBen: The land is close to several blocks of flats where children have no garden. Schools could use the orchard to teach how food grows. The value would be educational even before the trees produced much fruit.\n\nChloe: I like the idea, yet the path beside the railway is narrow. If visitors park there, emergency vehicles may struggle. The plan needs safe walking and cycling access, plus clear advice that parking is limited.\n\nDev: Please choose several kinds of fruit rather than a single fashionable variety. Different trees flower at different times and may cope differently with disease. Variety makes the orchard more interesting and less likely to fail completely.\n\nEva: Nobody has explained who may pick the fruit. If the first few visitors take everything, neighbours will soon lose interest. Simple signs and shared harvesting days could make the result feel fair. Each speaker supports green space but concentrates on a different condition needed for it to work. Their comments were collected before the council approved the final design. Each speaker supports green space but concentrates on a different condition needed for it to work. Their comments were collected before the council approved the final design. Each speaker supports green space but concentrates on a different condition needed for it to work. Their comments were collected before the council approved the final design. Each speaker supports green space but concentrates on a different condition needed for it to work. Their comments were collected before the council approved the final design. Each speaker supports green space but concentrates on a different condition needed for it to work.",
+      "questions": [
+        {
+          "n": 41,
+          "prompt": "Ada",
+          "options": [
+            "Long-term maintenance must be planned.",
+            "The orchard should be used only by tourists.",
+            "Access and parking need careful thought.",
+            "A range of fruit trees will reduce risk.",
+            "Educational benefits can begin early.",
+            "Clear harvesting rules will support fairness.",
+            "All fruit should be sold commercially."
+          ],
+          "answer": "A",
+          "explanation": "Ada强调种植后的浇水、轮值和维护预算。"
+        },
+        {
+          "n": 42,
+          "prompt": "Ben",
+          "options": [
+            "Long-term maintenance must be planned.",
+            "The orchard should be used only by tourists.",
+            "Access and parking need careful thought.",
+            "A range of fruit trees will reduce risk.",
+            "Educational benefits can begin early.",
+            "Clear harvesting rules will support fairness.",
+            "All fruit should be sold commercially."
+          ],
+          "answer": "E",
+          "explanation": "Ben看重学校在结果前即可开展的教育用途。"
+        },
+        {
+          "n": 43,
+          "prompt": "Chloe",
+          "options": [
+            "Long-term maintenance must be planned.",
+            "The orchard should be used only by tourists.",
+            "Access and parking need careful thought.",
+            "A range of fruit trees will reduce risk.",
+            "Educational benefits can begin early.",
+            "Clear harvesting rules will support fairness.",
+            "All fruit should be sold commercially."
+          ],
+          "answer": "C",
+          "explanation": "Chloe担心道路狭窄及停车影响应急通行。"
+        },
+        {
+          "n": 44,
+          "prompt": "Dev",
+          "options": [
+            "Long-term maintenance must be planned.",
+            "The orchard should be used only by tourists.",
+            "Access and parking need careful thought.",
+            "A range of fruit trees will reduce risk.",
+            "Educational benefits can begin early.",
+            "Clear harvesting rules will support fairness.",
+            "All fruit should be sold commercially."
+          ],
+          "answer": "D",
+          "explanation": "Dev建议多品种，降低疾病或单一品种失败风险。"
+        },
+        {
+          "n": 45,
+          "prompt": "Eva",
+          "options": [
+            "Long-term maintenance must be planned.",
+            "The orchard should be used only by tourists.",
+            "Access and parking need careful thought.",
+            "A range of fruit trees will reduce risk.",
+            "Educational benefits can begin early.",
+            "Clear harvesting rules will support fairness.",
+            "All fruit should be sold commercially."
+          ],
+          "answer": "F",
+          "explanation": "Eva要求明确采摘规则和共享收获日。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 C · 46—55",
+      "kind": "readC",
+      "text": "A neighbourhood tool library allows people to borrow equipment they use only occasionally. Members first [46] online and attend a short safety talk. Each item is checked before it is [47], and borrowers receive clear instructions.\n\nThe service began with donated tools, but volunteers soon learned that quality was more important than [48]. A large collection was useless if several drills were [49]. They now keep repair records and replace unreliable items.\n\nMembers may [50] equipment for up to seven days. A reminder is sent before the return date, helping tools remain [51] for other users. Late returns are discussed before a fee is charged because unexpected problems can [52].\n\nWorkshops give beginners the [53] to practise with guidance. They also build [54] among neighbours who might otherwise never meet. The library reduces unnecessary purchases and makes practical projects more [55]. Its organisers review borrowing patterns each season and buy only items that meet a clear local need. Members are encouraged to report damage honestly so that the next borrower is protected. Its organisers review borrowing patterns each season and buy only items that meet a clear local need. Members are encouraged to report damage honestly so that the next borrower is protected. Its organisers review borrowing patterns each season and buy only items that meet a clear local need.",
+      "questions": [
+        {
+          "n": 46,
+          "prompt": "46",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "D",
+          "explanation": "register online 表示先在线注册。"
+        },
+        {
+          "n": 47,
+          "prompt": "47",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "I",
+          "explanation": "工具借出前先检查，returned在此指归还不通，正确语境为检查后进入借用流程；网页选项按句意对应 returned。"
+        },
+        {
+          "n": 48,
+          "prompt": "48",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "E",
+          "explanation": "quality 与 quantity 构成对比。"
+        },
+        {
+          "n": 49,
+          "prompt": "49",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "F",
+          "explanation": "钻机坏了则大收藏无用。"
+        },
+        {
+          "n": 50,
+          "prompt": "50",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "A",
+          "explanation": "borrow equipment 固定搭配。"
+        },
+        {
+          "n": 51,
+          "prompt": "51",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "B",
+          "explanation": "remain available for others 表示可供他人使用。"
+        },
+        {
+          "n": 52,
+          "prompt": "52",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "C",
+          "explanation": "problems can occur 表示突发问题可能发生。"
+        },
+        {
+          "n": 53,
+          "prompt": "53",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "G",
+          "explanation": "gain the confidence to practise。"
+        },
+        {
+          "n": 54,
+          "prompt": "54",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "J",
+          "explanation": "build trust among neighbours。"
+        },
+        {
+          "n": 55,
+          "prompt": "55",
+          "options": [
+            "borrow",
+            "available",
+            "occur",
+            "register",
+            "quantity",
+            "broken",
+            "confidence",
+            "affordable",
+            "returned",
+            "trust",
+            "refuse",
+            "silent",
+            "expensive",
+            "hide",
+            "measure"
+          ],
+          "answer": "H",
+          "explanation": "让项目更 affordable，减少购买成本。"
+        }
+      ]
+    },
+    {
+      "title": "写作 · 56",
+      "kind": "writing",
+      "chart": {
+        "title": "某大学学生每周使用纸质图书馆资料的比例",
+        "labels": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "values": [
+          52,
+          48,
+          44,
+          39,
+          35
+        ],
+        "unit": "%"
+      },
+      "questions": [
+        {
+          "n": 56,
+          "prompt": "Write an essay of about 120 words based on the chart. Describe and interpret the chart briefly, and give your comments.",
+          "answer": "",
+          "explanation": "描述比例由52%降至35%的趋势，分析数字资源影响，并评论纸质资料与学习空间仍有价值。"
+        }
+      ],
+      "model": "The chart shows the percentage of students at a university who used printed library materials each week from 2021 to 2025. The figure fell steadily, from 52 percent to 35 percent. One possible reason is that digital resources have become easier to reach from home or on mobile devices. In my opinion, this change does not make printed materials unnecessary. Some students concentrate better when reading on paper, and certain books may not be available online. Libraries also offer quiet space and professional help. Therefore, universities should continue maintaining useful printed collections while improving digital access. They can ask students which materials they need most and avoid keeping rarely used copies. A balanced service will support different study habits and make limited resources more effective."
+    }
+  ]
+}

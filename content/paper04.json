@@ -1,0 +1,876 @@
+{
+  "id": 4,
+  "title": "信息与生活选择",
+  "sections": [
+    {
+      "title": "听力 A · 1—4",
+      "kind": "listenA",
+      "audio": "./audio/04-1.mp3",
+      "transcript": "M: The bread from your evening stall always sells out. Did you train as a baker?\nW: No. I worked in an office for fifteen years. Baking began as a way to relax after long days at a screen.\nM: When did it become a business?\nW: Neighbours started ordering loaves during the winter market. I accepted every request at first and soon found that I was baking until two in the morning. The demand was encouraging, but the schedule was impossible.\nM: How did you change it?\nW: I reduced the range from twelve kinds of bread to five and introduced an order deadline. Customers sometimes miss the wider choice, yet they receive fresher bread because I can plan each batch properly.\nM: Do you hope to open a shop?\nW: People assume that is the next step. A shop would mean rent, staff and fixed daily hours. I currently rent a shared kitchen three mornings a week and sell at two markets. That gives me time to develop recipes.\nM: What advice would you give someone turning a hobby into work?\nW: Pay attention to the tasks around the activity. Loving baking is different from enjoying accounts, packaging and early deliveries. Try the whole routine on a small scale before making an expensive commitment.",
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Why did the woman first begin baking?",
+          "options": [
+            "To prepare for office meetings.",
+            "To earn money at a market.",
+            "To relax after work.",
+            "To help a neighbour open a shop."
+          ],
+          "answer": "C",
+          "explanation": "烘焙最初是她结束办公室工作后放松的方式。"
+        },
+        {
+          "n": 2,
+          "prompt": "What problem followed the early orders?",
+          "options": [
+            "Her working hours became unreasonable.",
+            "Customers complained about freshness.",
+            "The shared kitchen closed.",
+            "She had too few recipes."
+          ],
+          "answer": "A",
+          "explanation": "她接受所有订单，结果烤到凌晨两点。"
+        },
+        {
+          "n": 3,
+          "prompt": "Why did she reduce the number of breads?",
+          "options": [
+            "To use cheaper ingredients.",
+            "To plan production more effectively.",
+            "To enter a baking competition.",
+            "To match another market stall."
+          ],
+          "answer": "B",
+          "explanation": "缩小品类并设截止时间，使每批生产可合理安排。"
+        },
+        {
+          "n": 4,
+          "prompt": "Why is she cautious about opening a shop?",
+          "options": [
+            "She dislikes meeting customers.",
+            "She plans to return to office work.",
+            "Markets do not allow shop owners.",
+            "It would bring major costs and fixed hours."
+          ],
+          "answer": "D",
+          "explanation": "店铺意味着租金、员工和固定营业时间。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 5—8",
+      "kind": "listenA",
+      "audio": "./audio/04-2.mp3",
+      "transcript": "Good evening. Before tomorrow's bee survey, I need to correct one piece of information in your welcome email. We will meet beside the orchard gate, not at the farm office. A delivery truck needs the office yard throughout the morning.\n\nThe survey does not involve opening hives. We will walk along fixed paths and count bees visiting marked groups of flowers. This means beginners can take part, and no special protective suit is required. Wear long trousers and closed shoes because some paths have nettles. Please bring a pencil; rain can make ink difficult to read on the recording sheets we provide.\n\nEach pair will observe one area for twenty minutes, rest, and then move to a second area. Accurate counting matters more than speed. If you lose track, make a note rather than inventing a number. At midday we will compare results in the education room.\n\nThe cafe will be closed, although hot drinks are available from a machine. Bring lunch if you intend to stay for the afternoon talk. Anyone with a serious allergy to insect stings should contact me tonight. You can still help by entering survey results indoors. Finally, check your email at seven tomorrow morning. Heavy rain would make the counts unreliable, so we may postpone the survey even if travel conditions are safe.",
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "Why has the meeting point changed?",
+          "options": [
+            "The farm office is being used by a vehicle.",
+            "The orchard gate has been repaired.",
+            "The education room is too small.",
+            "The flower survey moved indoors."
+          ],
+          "answer": "A",
+          "explanation": "送货卡车整个上午要使用农场办公室院子。"
+        },
+        {
+          "n": 6,
+          "prompt": "Why should participants use a pencil?",
+          "options": [
+            "Pencils are easier to count.",
+            "Ink may become unclear in rain.",
+            "The organisers have no recording sheets.",
+            "Pens frighten bees away."
+          ],
+          "answer": "B",
+          "explanation": "雨水可能使记录表上的墨水难以辨认。"
+        },
+        {
+          "n": 7,
+          "prompt": "What should participants do if they lose count?",
+          "options": [
+            "Begin the entire survey again.",
+            "Ask another pair to guess.",
+            "Record that the count is uncertain.",
+            "Move immediately to the education room."
+          ],
+          "answer": "C",
+          "explanation": "应如实做标记，不能编造数字。"
+        },
+        {
+          "n": 8,
+          "prompt": "What will determine whether the survey is postponed?",
+          "options": [
+            "The number of beginners.",
+            "The cafe opening time.",
+            "The availability of protective suits.",
+            "Whether heavy rain is expected."
+          ],
+          "answer": "D",
+          "explanation": "大雨会使统计不可靠，因此可能延期。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 9—12",
+      "kind": "listenA",
+      "audio": "./audio/04-3.mp3",
+      "transcript": "W: You're listening to City Voices. Today producer Mark Liu is explaining how the station chooses stories from listeners. Mark, do you use the most dramatic messages?\nM: Not necessarily. A small experience can reveal a larger local issue. Last month someone wrote that a bench had disappeared from a bus stop. It led us to investigate how street repairs are planned.\nW: What makes a useful first message?\nM: Be specific. Tell us what you personally saw, where it happened and when. Do not try to prove every part of the story yourself. Our reporters check documents and contact the people involved.\nW: Are anonymous messages accepted?\nM: We need a name and contact details, but we do not always broadcast them. Someone may have a good reason for privacy. The editor discusses that before any interview is recorded.\nW: How quickly can a suggestion become a programme?\nM: Rarely overnight. Even a five-minute report may take a week. We also receive more ideas than we can use.\nW: What mistake do new contributors make?\nM: They sometimes send a thirty-minute recording without explaining its importance. A short written summary is more helpful at first. If the idea suits us, a producer will arrange the recording properly.\nW: So the first goal is clarity, not polished audio.\nM: Exactly.",
+      "questions": [
+        {
+          "n": 9,
+          "prompt": "What does Mark say about suitable stories?",
+          "options": [
+            "They must involve serious crime.",
+            "A minor event can raise a wider question.",
+            "They should already be in other newspapers.",
+            "Only dramatic recordings are considered."
+          ],
+          "answer": "B",
+          "explanation": "公交站长椅消失的小事引出了街道维修这一更大问题。"
+        },
+        {
+          "n": 10,
+          "prompt": "What information should listeners include initially?",
+          "options": [
+            "What they directly observed, with place and time.",
+            "A complete legal argument.",
+            "Interviews with everyone involved.",
+            "Proof that their name can be broadcast."
+          ],
+          "answer": "A",
+          "explanation": "首条信息应具体说明亲眼所见、地点和时间。"
+        },
+        {
+          "n": 11,
+          "prompt": "How does the station handle privacy?",
+          "options": [
+            "It rejects every anonymous subject.",
+            "It broadcasts contact details only.",
+            "An editor considers the reason before recording.",
+            "A reporter decides after broadcast."
+          ],
+          "answer": "C",
+          "explanation": "编辑会在录音采访前讨论隐私理由。"
+        },
+        {
+          "n": 12,
+          "prompt": "What should a contributor send before making a long recording?",
+          "options": [
+            "A station membership fee.",
+            "A photograph of the studio.",
+            "A list of previous programmes.",
+            "A brief written explanation."
+          ],
+          "answer": "D",
+          "explanation": "Mark说先提供简短书面摘要更有帮助。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 13—16",
+      "kind": "listenA",
+      "audio": "./audio/04-4.mp3",
+      "transcript": "Three months ago, our forest centre created a photography trail. We marked six viewpoints and expected visitors to stop there, take pictures and continue walking. The idea worked too well at the first viewpoint. Groups waited on the narrow path, while others stepped onto young plants to pass them.\n\nClosing the viewpoint would have protected the ground but removed the easiest view for people who could not walk far. We first widened a small waiting area using existing stones. Then we added a sign showing two other nearby viewpoints. The sign did not call them “better” because each gave a different view and we wanted visitors to choose.\n\nWe also moved the photography advice away from the narrowest section. People had been standing there to read about light and composition. The same information is now on a board beside the car park, with an audio version reached by a code.\n\nSince these changes, fewer walkers leave the path and waiting times have fallen. However, we discovered that the painted viewpoint markers become hard to see after rain. Volunteers will replace them with carved wooden posts next month.\n\nThe lesson was not that photographs damage nature. Poorly placed information and crowded routes create pressure. By observing exactly where people stopped, we could protect the plants while keeping the trail open to visitors with different abilities.",
+      "questions": [
+        {
+          "n": 13,
+          "prompt": "What unexpected problem occurred at the first viewpoint?",
+          "options": [
+            "Visitors damaged plants while passing a queue.",
+            "Photographers removed the route markers.",
+            "The easiest view was permanently closed.",
+            "Groups refused to continue walking."
+          ],
+          "answer": "A",
+          "explanation": "人群堵住窄路，其他人绕行时踩到幼苗。"
+        },
+        {
+          "n": 14,
+          "prompt": "Why did the centre keep the first viewpoint open?",
+          "options": [
+            "It was the only place with photography advice.",
+            "It was accessible to people unable to walk far.",
+            "The stones could not be moved.",
+            "It offered a better view than all others."
+          ],
+          "answer": "B",
+          "explanation": "该点距离近，照顾无法远行的游客。"
+        },
+        {
+          "n": 15,
+          "prompt": "Why was the information board moved?",
+          "options": [
+            "The audio code did not work.",
+            "Visitors wanted information after the walk.",
+            "Readers were blocking a narrow area.",
+            "The car park needed a new sign."
+          ],
+          "answer": "C",
+          "explanation": "游客停在狭窄处阅读，进一步造成拥堵。"
+        },
+        {
+          "n": 16,
+          "prompt": "What will volunteers do next month?",
+          "options": [
+            "Plant a new forest.",
+            "Close two viewpoints.",
+            "Paint the path after rain.",
+            "Install more visible wooden markers."
+          ],
+          "answer": "D",
+          "explanation": "雨后彩绘标记难看清，将换成木刻标柱。"
+        }
+      ]
+    },
+    {
+      "title": "听力 A · 17—20",
+      "kind": "listenA",
+      "audio": "./audio/04-5.mp3",
+      "transcript": "M: We have enough volunteers for Friday's community meal, but last week's service was confusing. Some guests waited twenty minutes while later arrivals were served first.\nW: That happened because one queue was for hot meals and another for takeaway boxes. The signs were behind the volunteers, where nobody could see them.\nM: Could we hand everyone a number at the door?\nW: Numbers would establish order, but guests choosing takeaway food should not occupy dining tables while they wait. I suggest one welcome desk. A volunteer can ask what each person needs and direct them clearly.\nM: Good. We also ran out of the vegetarian dish, although eight portions of chicken were left.\nW: The booking form asks about allergies but not meal choice. I can add a question. We should still prepare a few extra vegetarian portions for people who arrive without booking.\nM: Agreed. What about the noise near the kitchen? Volunteers missed two collection calls.\nW: Let's stop calling names. We can display order numbers on the old notice screen. I'll test it before Friday.\nM: Then I'll redesign the entrance signs and brief the welcome volunteer. We should ask guests for feedback after the meal, while the experience is fresh.\nW: Use three specific questions. A blank comment box usually tells us very little.",
+      "questions": [
+        {
+          "n": 17,
+          "prompt": "What caused unfair-looking service last week?",
+          "options": [
+            "Some volunteers arrived late.",
+            "Two queues were not clearly identified.",
+            "Guests lost their booking numbers.",
+            "Takeaway boxes were unavailable."
+          ],
+          "answer": "B",
+          "explanation": "两条队伍的标志被挡住，来客不清楚排队规则。"
+        },
+        {
+          "n": 18,
+          "prompt": "What will the welcome volunteer do?",
+          "options": [
+            "Find out each guest’s need and direct them.",
+            "Serve every hot meal personally.",
+            "Collect payment for dining tables.",
+            "Prepare additional chicken dishes."
+          ],
+          "answer": "A",
+          "explanation": "入口志愿者先询问需求，再清楚分流。"
+        },
+        {
+          "n": 19,
+          "prompt": "How will the organisers estimate meal demand?",
+          "options": [
+            "By counting dining tables.",
+            "By asking volunteers to choose.",
+            "By adding meal choice to the booking form.",
+            "By serving only vegetarian food."
+          ],
+          "answer": "C",
+          "explanation": "预约表新增餐食选择问题。"
+        },
+        {
+          "n": 20,
+          "prompt": "Why does the woman prefer specific feedback questions?",
+          "options": [
+            "They are quicker to print.",
+            "Guests dislike speaking after meals.",
+            "The screen cannot show comments.",
+            "Open comment boxes often produce little useful information."
+          ],
+          "answer": "D",
+          "explanation": "她认为空白评论框通常得不到多少有用信息。"
+        }
+      ]
+    },
+    {
+      "title": "听力 B · 21—25",
+      "kind": "listenB",
+      "audio": "./audio/04-6.mp3",
+      "transcript": "The Northfield Volunteer Driver Service will begin on 6 April. At first, older residents sometimes missed medical appointments because the nearest bus stop was too far away. The organisers did not immediately spend money on new equipment. Instead, they interviewed patients and clinic receptionists for six weeks. This showed that Tuesday mornings had the greatest need for transport.\n\nThe group then recruited twelve drivers and introduced telephone booking. Some people expected this to be unpopular, yet the first month was fully booked. One difficulty remained: some passengers needed extra time to enter a vehicle. To deal with it, the team allowed fifteen minutes between every journey.\n\nThe project is still small, and nobody claims that it offers a complete answer. Its main lesson is that a dependable timetable must include realistic boarding time. Careful observation mattered more than the original assumptions. The organisers now collect comments every three months and publish a short report, so residents can see why later decisions are made. They also invite new volunteers to attend an introductory meeting before taking responsibility. This helps everyone understand both the purpose of the project and its practical limits.",
+      "text": "Northfield Volunteer Driver Service\n\n21. Starting month: ____\n22. Greatest demand: Tuesday ____\n23. Number of drivers: ____\n24. Booking method: ____\n25. Time between journeys: ____ minutes",
+      "questions": [
+        {
+          "n": 21,
+          "prompt": "Starting month",
+          "answer": "April",
+          "explanation": "服务从4月6日开始。"
+        },
+        {
+          "n": 22,
+          "prompt": "Time of greatest demand",
+          "answer": "morning|mornings",
+          "explanation": "需求最大的是周二上午。"
+        },
+        {
+          "n": 23,
+          "prompt": "Number of drivers",
+          "answer": "12|twelve",
+          "explanation": "招募了12名司机。"
+        },
+        {
+          "n": 24,
+          "prompt": "Booking method",
+          "answer": "telephone|phone",
+          "explanation": "采用电话预约。"
+        },
+        {
+          "n": 25,
+          "prompt": "Minutes between journeys",
+          "answer": "15|fifteen",
+          "explanation": "每段行程之间预留15分钟。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 A · 26—30",
+      "kind": "readA",
+      "text": "A small newspaper stopped printing a separate weekend events guide and moved the listings to its website.\n\nInitially, editors believed readers would welcome faster online updates. However, many older readers and visitors said they discovered events through the printed page. This mattered because the guide was visible even when people were not actively searching.\n\nInstead of making an immediate large change, the organisers restored one compact printed page for eight weeks and added a code linking to late changes. During the trial, they recorded what people actually did and asked them to explain their choices. They learned that print encouraged discovery while the website handled detailed and changing information.\n\nThe revised approach combined the weekly page with a continuously updated online calendar. It did not satisfy every person, and the organisers were careful not to describe it as a universal solution. Printing space remained limited and organisers still had to submit accurate details. Nevertheless, more readers reported attending unfamiliar local events.\n\nThe printed page also reached people outside the newspaper’s usual readership. Copies left in cafes and guest houses were picked up by weekend visitors who did not know the names of local venues. Website statistics had never revealed this group because many searched only after seeing an event in print.\n\nEditors introduced a simple deadline: confirmed events entered the printed guide on Wednesday, while cancellations and late additions appeared online. Each printed entry carried the date on which its details had been checked. That reduced confusion when an organiser changed a time after publication.\n\nThe combined service costs more effort than an online calendar alone, so it will be reviewed after six months. The newspaper is asking which listings lead to attendance, rather than counting page views only. A printed guide can invite discovery; a live calendar can support the later decision. Understanding that sequence helped the editors use each medium for the job it performs well.",
+      "questions": [
+        {
+          "n": 26,
+          "prompt": "Why did editors first move listings online?",
+          "options": [
+            "To provide quicker updates",
+            "To close local events",
+            "To attract only older readers",
+            "To remove all deadlines"
+          ],
+          "answer": "A",
+          "explanation": "线上信息可更快更新。"
+        },
+        {
+          "n": 27,
+          "prompt": "What advantage did the printed guide have?",
+          "options": [
+            "It sold tickets directly",
+            "It reached people not actively searching",
+            "It contained unlimited detail",
+            "It changed every hour"
+          ],
+          "answer": "B",
+          "explanation": "纸页可让未主动搜索的人偶然发现活动。"
+        },
+        {
+          "n": 28,
+          "prompt": "What did the trial find?",
+          "options": [
+            "Print and online formats served different purposes",
+            "Readers wanted no event information",
+            "Codes were impossible to use",
+            "Only visitors attended events"
+          ],
+          "answer": "A",
+          "explanation": "纸质负责发现，线上负责详细和变化。"
+        },
+        {
+          "n": 29,
+          "prompt": "What limitation continued?",
+          "options": [
+            "No organisers sent information",
+            "The website could not be updated",
+            "Printed space was restricted",
+            "All events were unfamiliar"
+          ],
+          "answer": "C",
+          "explanation": "印刷版面仍有限。"
+        },
+        {
+          "n": 30,
+          "prompt": "What is the main message?",
+          "options": [
+            "One medium must replace another",
+            "Information formats can complement each other",
+            "Newspapers should print only events",
+            "Online calendars discourage attendance"
+          ],
+          "answer": "B",
+          "explanation": "两种媒介服务决策的不同阶段，可互补。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 A · 31—35",
+      "kind": "readA",
+      "text": "A housing association asked residents to reduce energy use during the coldest weeks of winter.\n\nInitially, managers expected a general leaflet to change household behaviour. However, residents had very different heating systems and some could not identify which controls affected each room. This mattered because advice was useless when people could not apply it to their own equipment.\n\nInstead of making an immediate large change, the organisers offered short home visits to one building and compared energy records anonymously. During the trial, they recorded what people actually did and asked them to explain their choices. They learned that specific explanations reduced waste without asking residents to accept unsafe temperatures.\n\nThe revised approach trained advisers to demonstrate controls and report faulty equipment. It did not satisfy every person, and the organisers were careful not to describe it as a universal solution. Building insulation still required long-term investment beyond household action. Nevertheless, energy use fell and residents made fewer confused calls.\n\nDuring visits, advisers discovered several faults that residents had mistaken for personal error. One heating timer lost its settings whenever electricity was interrupted. Reporting such faults prevented the campaign from blaming households for waste they could not reasonably control.\n\nThe association also changed the language of its advice. Instead of telling everyone to “turn the heating down,” it explained how to heat occupied rooms and avoid heating empty ones. Advisers stressed that people with health conditions should follow medical guidance. Cutting consumption was never presented as more important than safety.\n\nThe visits cannot compensate for thin walls and ageing windows. Those findings have been added to the association’s repair plan, with the coldest buildings receiving priority. Meanwhile, residents now have a named adviser to contact. The project reduced energy use because it treated information, equipment and the condition of the building as connected parts of the same problem. Further review was planned. Further review was planned.",
+      "questions": [
+        {
+          "n": 31,
+          "prompt": "Why was the leaflet insufficient?",
+          "options": [
+            "It was written in several languages",
+            "Homes had different systems and controls",
+            "Residents refused to save money",
+            "Winter ended immediately"
+          ],
+          "answer": "B",
+          "explanation": "不同供暖系统使通用建议难以落实。"
+        },
+        {
+          "n": 32,
+          "prompt": "What happened during home visits?",
+          "options": [
+            "Advisers demonstrated the controls",
+            "Residents received new houses",
+            "Temperatures were made unsafe",
+            "All equipment was replaced"
+          ],
+          "answer": "A",
+          "explanation": "顾问现场讲解控制装置。"
+        },
+        {
+          "n": 33,
+          "prompt": "What did the trial show?",
+          "options": [
+            "Saving energy required colder homes",
+            "Specific guidance could reduce waste",
+            "Anonymous records were illegal",
+            "Faults never affected energy use"
+          ],
+          "answer": "B",
+          "explanation": "有针对性的解释减少浪费且不牺牲安全温度。"
+        },
+        {
+          "n": 34,
+          "prompt": "What problem needed longer-term action?",
+          "options": [
+            "Telephone staffing",
+            "Resident attendance",
+            "Building insulation",
+            "Leaflet printing"
+          ],
+          "answer": "C",
+          "explanation": "保温改造需要长期投资。"
+        },
+        {
+          "n": 35,
+          "prompt": "What principle does the writer support?",
+          "options": [
+            "Advice should be practical for individual situations",
+            "Energy goals should remain secret",
+            "Residents should repair boilers alone",
+            "Every home should use identical equipment"
+          ],
+          "answer": "A",
+          "explanation": "建议要连接总体目标和住户可做的具体决定。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 A · 36—40",
+      "kind": "readA",
+      "text": "A town archive began recording the memories of workers from factories that had recently closed.\n\nInitially, the project team thought a fixed list of factual questions would produce the clearest history. However, interviewees gave richer accounts when asked to describe an ordinary working day. This mattered because daily routines revealed relationships, skills and changes that dates alone could not show.\n\nInstead of making an immediate large change, the organisers recorded ten interviews using both question styles. During the trial, they recorded what people actually did and asked them to explain their choices. They learned that open prompts produced valuable detail but still needed careful follow-up for accuracy.\n\nThe revised approach trained volunteers to listen actively, check names and dates, and obtain permission for future use. It did not satisfy every person, and the organisers were careful not to describe it as a universal solution. Personal memories could differ and were not treated as the only historical evidence. Nevertheless, the archive gained accounts that complemented official company records.\n\nOne interviewee described recognising the morning shift by the sound of hundreds of bicycles arriving at the gates. Another explained an informal system for teaching new workers to judge the temperature of metal by colour. Such details were absent from management reports, yet they showed how work felt and how knowledge passed between colleagues.\n\nVolunteers produced a written summary after every recording. Speakers could correct names, remove a private story or restrict public access for a period. This review sometimes took longer than the interview, but it allowed people to contribute without surrendering control of personal material.\n\nResearchers will compare the recordings with photographs, union papers and company documents. Disagreement is recorded rather than quietly removed, since people may experience the same event differently. Oral testimony does not provide a perfectly neutral account. Its value lies in preserving voices and details that formal records often overlook, while careful checking makes the limits of each memory clear.",
+      "questions": [
+        {
+          "n": 36,
+          "prompt": "What was the archive collecting?",
+          "options": [
+            "Factory machines",
+            "Workers’ memories",
+            "Company profits",
+            "New employment contracts"
+          ],
+          "answer": "B",
+          "explanation": "项目记录关闭工厂工人的回忆。"
+        },
+        {
+          "n": 37,
+          "prompt": "Which prompt produced richer accounts?",
+          "options": [
+            "Give every date",
+            "Describe an ordinary working day",
+            "List all managers",
+            "Explain the town map"
+          ],
+          "answer": "B",
+          "explanation": "描述普通工作日带出更多细节。"
+        },
+        {
+          "n": 38,
+          "prompt": "Why were follow-up questions still needed?",
+          "options": [
+            "To shorten every answer",
+            "To sell the recordings",
+            "To check factual accuracy",
+            "To avoid daily routines"
+          ],
+          "answer": "C",
+          "explanation": "开放叙述丰富，但需追问核实。"
+        },
+        {
+          "n": 39,
+          "prompt": "What did volunteers have to obtain?",
+          "options": [
+            "Permission for future use",
+            "Factory ownership",
+            "A new job for each speaker",
+            "Payment from the company"
+          ],
+          "answer": "A",
+          "explanation": "需获得今后使用录音的许可。"
+        },
+        {
+          "n": 40,
+          "prompt": "How were the interviews treated?",
+          "options": [
+            "As replacements for all records",
+            "As entertainment only",
+            "As private notes to destroy",
+            "As evidence alongside official records"
+          ],
+          "answer": "D",
+          "explanation": "个人叙述补充正式档案，不是唯一证据。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 B · 41—45",
+      "kind": "readB",
+      "text": "Five commuters discuss a proposal to introduce silent carriages on regional trains.\n\nFarah: I often use the journey to prepare reports. A clearly marked quiet carriage would help, provided the rule covered phone calls as well as music. People need to know exactly what quiet means.\n\nGeorge: Conductors already deal with tickets, safety and delays. A new rule will fail if passengers expect them to settle every small disagreement. The company should explain how enforcement will work before advertising the service.\n\nHana: Families with young children should not be made to feel unwelcome on trains. Quiet carriages are reasonable only if ordinary carriages remain comfortable and there is enough space for everyone.\n\nIvan: I have a hearing difficulty, so announcements are sometimes unclear. Silence would not solve that. The company should improve visual information on screens instead of assuming every access problem is about noise.\n\nJulia: I support a three-month trial. The company could measure use at different times and ask both quiet-carriage users and other passengers about their experience before making it permanent. The proposal attracted broad interest, although support depended on how the details would be managed. The comments show that a simple label can raise questions about access, fairness and responsibility. The proposal attracted broad interest, although support depended on how the details would be managed. The comments show that a simple label can raise questions about access, fairness and responsibility. The proposal attracted broad interest, although support depended on how the details would be managed. The comments show that a simple label can raise questions about access, fairness and responsibility. The proposal attracted broad interest, although support depended on how the details would be managed. The comments show that a simple label can raise questions about access, fairness and responsibility. The proposal attracted broad interest, although support depended on how the details would be managed. The comments show that a simple label can raise questions about access, fairness and responsibility.",
+      "questions": [
+        {
+          "n": 41,
+          "prompt": "Farah",
+          "options": [
+            "Rules must define the expected behaviour.",
+            "A trial should be evaluated before a final decision.",
+            "Children should be banned from regional trains.",
+            "Staff responsibilities need to be realistic.",
+            "Better visual information is also necessary.",
+            "Other passengers must retain suitable space.",
+            "Quiet carriages should replace every carriage."
+          ],
+          "answer": "A",
+          "explanation": "Farah要求明确安静规则是否包括电话和音乐。"
+        },
+        {
+          "n": 42,
+          "prompt": "George",
+          "options": [
+            "Rules must define the expected behaviour.",
+            "A trial should be evaluated before a final decision.",
+            "Children should be banned from regional trains.",
+            "Staff responsibilities need to be realistic.",
+            "Better visual information is also necessary.",
+            "Other passengers must retain suitable space.",
+            "Quiet carriages should replace every carriage."
+          ],
+          "answer": "D",
+          "explanation": "George担心列车员职责过多，需先说明执行方式。"
+        },
+        {
+          "n": 43,
+          "prompt": "Hana",
+          "options": [
+            "Rules must define the expected behaviour.",
+            "A trial should be evaluated before a final decision.",
+            "Children should be banned from regional trains.",
+            "Staff responsibilities need to be realistic.",
+            "Better visual information is also necessary.",
+            "Other passengers must retain suitable space.",
+            "Quiet carriages should replace every carriage."
+          ],
+          "answer": "F",
+          "explanation": "Hana要求普通车厢仍有足够舒适空间。"
+        },
+        {
+          "n": 44,
+          "prompt": "Ivan",
+          "options": [
+            "Rules must define the expected behaviour.",
+            "A trial should be evaluated before a final decision.",
+            "Children should be banned from regional trains.",
+            "Staff responsibilities need to be realistic.",
+            "Better visual information is also necessary.",
+            "Other passengers must retain suitable space.",
+            "Quiet carriages should replace every carriage."
+          ],
+          "answer": "E",
+          "explanation": "Ivan需要清晰的视觉信息屏。"
+        },
+        {
+          "n": 45,
+          "prompt": "Julia",
+          "options": [
+            "Rules must define the expected behaviour.",
+            "A trial should be evaluated before a final decision.",
+            "Children should be banned from regional trains.",
+            "Staff responsibilities need to be realistic.",
+            "Better visual information is also necessary.",
+            "Other passengers must retain suitable space.",
+            "Quiet carriages should replace every carriage."
+          ],
+          "answer": "B",
+          "explanation": "Julia主张试行三个月并评估数据和反馈。"
+        }
+      ]
+    },
+    {
+      "title": "阅读 C · 46—55",
+      "kind": "readC",
+      "text": "A town podcast shares short stories about local science projects. Each episode begins with a question that listeners can easily [46] to daily life. Producers avoid unnecessary technical terms and ask guests to [47] unfamiliar ideas with examples.\n\nBefore recording, the team checks every important [48]. This prevents an interesting story from spreading incorrect information. Episodes are then [49] by a small group of listeners, who report where explanations are unclear.\n\nThe podcast is free to [50], and written transcripts make it more [51] to people with hearing difficulties. Teachers sometimes [52] sections in class, but the programme is designed for adults as well.\n\nListeners may send questions, which often [53] topics for later episodes. The producers cannot answer every message, so they [54] those that connect with common concerns. Their aim is to make science feel relevant without making it seem [55]. New episodes appear twice a month and usually last about fifteen minutes. The team also publishes links to reliable sources for listeners who want greater detail. New episodes appear twice a month and usually last about fifteen minutes. The team also publishes links to reliable sources for listeners who want greater detail. New episodes appear twice a month and usually last about fifteen minutes. The team also publishes links to reliable sources for listeners who want greater detail.",
+      "questions": [
+        {
+          "n": 46,
+          "prompt": "46",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "A",
+          "explanation": "relate to daily life 固定搭配。"
+        },
+        {
+          "n": 47,
+          "prompt": "47",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "B",
+          "explanation": "用例子 explain 陌生概念。"
+        },
+        {
+          "n": 48,
+          "prompt": "48",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "C",
+          "explanation": "核对每个重要 fact。"
+        },
+        {
+          "n": 49,
+          "prompt": "49",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "D",
+          "explanation": "由试听者 tested 后反馈。"
+        },
+        {
+          "n": 50,
+          "prompt": "50",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "E",
+          "explanation": "播客可免费下载。"
+        },
+        {
+          "n": 51,
+          "prompt": "51",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "F",
+          "explanation": "文字稿使内容更 accessible。"
+        },
+        {
+          "n": 52,
+          "prompt": "52",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "G",
+          "explanation": "教师在课堂 use 片段。"
+        },
+        {
+          "n": 53,
+          "prompt": "53",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "H",
+          "explanation": "问题常 suggest 后续选题。"
+        },
+        {
+          "n": 54,
+          "prompt": "54",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "I",
+          "explanation": "从问题中 select 共同关切。"
+        },
+        {
+          "n": 55,
+          "prompt": "55",
+          "options": [
+            "relate",
+            "explain",
+            "fact",
+            "tested",
+            "download",
+            "accessible",
+            "use",
+            "suggest",
+            "select",
+            "simple",
+            "damage",
+            "secret",
+            "refuse",
+            "expensive",
+            "remove"
+          ],
+          "answer": "J",
+          "explanation": "相关且不故作过分 simple，意为避免把科学说得过度简单。"
+        }
+      ]
+    },
+    {
+      "title": "写作 · 56",
+      "kind": "writing",
+      "chart": {
+        "title": "某公司选择每周至少一天远程办公的员工比例",
+        "labels": [
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "values": [
+          24,
+          38,
+          46,
+          49,
+          47
+        ],
+        "unit": "%"
+      },
+      "questions": [
+        {
+          "n": 56,
+          "prompt": "Write an essay of about 120 words based on the chart. Describe and interpret the chart briefly, and give your comments.",
+          "answer": "",
+          "explanation": "描述先明显上升、2024年达峰后略降的变化，分析灵活工作的价值与协作条件。"
+        }
+      ],
+      "model": "The chart shows the percentage of employees in a company who worked remotely at least one day a week between 2021 and 2025. The proportion rose from 24 percent in 2021 to a peak of 49 percent in 2024, before falling slightly to 47 percent in 2025. The overall trend suggests that remote work became a regular choice rather than a temporary arrangement. It can save travel time and help employees organise focused tasks. However, it may also make communication harder when responsibilities are unclear. In my view, companies should offer flexibility while setting shared times for meetings and teamwork. They should also review whether staff have suitable equipment and support at home. Clear arrangements can help employees benefit from remote work without weakening cooperation or service quality."
+    }
+  ]
+}
